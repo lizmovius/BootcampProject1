@@ -6,10 +6,10 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the playbook files may be used to install only certain pieces of it, such as Filebeat.
 
-[Config_WebVM_Docker.txt](https://github.com/lizmovius/BootcampProject1/blob/72b84aff07add7a79e97a8611922920f8826f3a5/Ansible/Config_WebVM_Docker.txt)
-[Config_ELK.txt](https://github.com/lizmovius/BootcampProject1/blob/1c8b83672bd28fcb5aef683a033a948f9fd77e4f/Ansible/Config_ELK.txt)
-[Config_Filebeat.txt](https://github.com/lizmovius/BootcampProject1/blob/1c8b83672bd28fcb5aef683a033a948f9fd77e4f/Ansible/Config_Filebeat.txt)
-[Config_Metricbeat.txt](https://github.com/lizmovius/BootcampProject1/blob/1c8b83672bd28fcb5aef683a033a948f9fd77e4f/Ansible/Config_Metricbeat.txt)
+- [Config_WebVM_Docker.txt](https://github.com/lizmovius/BootcampProject1/blob/72b84aff07add7a79e97a8611922920f8826f3a5/Ansible/Config_WebVM_Docker.txt)
+- [Config_ELK.txt](https://github.com/lizmovius/BootcampProject1/blob/1c8b83672bd28fcb5aef683a033a948f9fd77e4f/Ansible/Config_ELK.txt)
+- [Config_Filebeat.txt](https://github.com/lizmovius/BootcampProject1/blob/1c8b83672bd28fcb5aef683a033a948f9fd77e4f/Ansible/Config_Filebeat.txt)
+- [Config_Metricbeat.txt](https://github.com/lizmovius/BootcampProject1/blob/1c8b83672bd28fcb5aef683a033a948f9fd77e4f/Ansible/Config_Metricbeat.txt)
 
 This document contains the following details:
 - Description of the Topology
