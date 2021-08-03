@@ -2,14 +2,14 @@
 
 The files in this repository were used to configure the network depicted below.
 
-!Images/Project1_Diagram.png
+!(https://github.com/lizmovius/BootcampProject1/blob/main/Diagrams/Project1_Diagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the playbook files may be used to install only certain pieces of it, such as Filebeat.
 
-!Ansible/Config_WebVM_Docker
-!Ansible/Config_ELK
-!Ansible/Config_Filebeat
-!Ansible/Config_Metricbeat
+!(https://github.com/lizmovius/BootcampProject1/blob/main/Ansible/Config_WebVM_Docker.txt)
+!(https://github.com/lizmovius/BootcampProject1/blob/main/Ansible/Config_ELK.txt)
+!(https://github.com/lizmovius/BootcampProject1/blob/main/Ansible/Config_Filebeat.txt)
+!(https://github.com/lizmovius/BootcampProject1/blob/main/Ansible/Config_Metricbeat.txt)
 
 This document contains the following details:
 - Description of the Topology
@@ -68,7 +68,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-!Images/Project1ScreenCapture.png
+!(https://github.com/lizmovius/BootcampProject1/blob/main/Images/Project1ScreenCapture.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines: 
